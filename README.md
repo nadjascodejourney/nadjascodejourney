@@ -3,7 +3,7 @@ Hi 👋 My name is Nadja
 
 * 🌍  I'm based in Regensburg
 * 📫  How to contact me: PN or instagram: nadjaschwarzenegger
-* 🌱  I'm learning javascript, css/scss, figma, digital media formats
+* 🌱  I'm currently learning javascript, css/scss, figma, digital media formats
 * 🤝  I'm open to collaborating on artistic, playful and creative web projects  
 
 ### More about me
