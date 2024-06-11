@@ -4,10 +4,11 @@ Hi 👋 My name is Nadja
 Web Developer and Designer
 --------------------------
 
-* 🌍  I'm based in Regensburg
-* 🧠  I'm learning React, Three.js, Javascript and Figma
-* 🤝  I'm open to collaborating on artistic, playful and creative web projects
-* ⚡  I’m also really interested in illustration, films and typography and I love cats and birds of prey 🦅
+* 🌍  based in Regensburg
+* 🧠  current Interests: React, Three.js and Figma
+* 🤝  open to collaborating on artistic, playful and creative web projects
+* ⚡   also interested in illustration and typography
+* 😻  love cats and birds of prey 
 
 ### Skills
 
