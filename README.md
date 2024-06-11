@@ -18,8 +18,8 @@ Technical Skills 👩‍🔧
 Key Projects 🌟
 --------------------------
 * [Birds of Prey](https://github.com/nadjascodejourney/birdsOfPrey-Project)
- Birds of Prey - A personal webproject about birds of prey 
-* [Quizzell](https://github.com/nadjascodejourney/quizproject) - A team project to create a quiz app prototype
+ Birds of Prey - A current personal webproject about birds of prey 
+* [Quizzell](https://github.com/nadjascodejourney/quizproject) - A current team project to create a quiz app prototype
 
 Professional Goals 🚀
 -------------------------- 
