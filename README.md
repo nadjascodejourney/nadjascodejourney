@@ -7,7 +7,7 @@ Web Developer and Designer
 * 🌍  based in Regensburg
 * 🧠  current Interests: React, Three.js and Figma
 * 🤝  open to collaborating on artistic, playful and creative web projects
-* ⚡   also interested in illustration and typography
+* ⚡   also interested in art, illustration and typography
 * 😻  love cats and birds of prey 
 
 ### Skills
