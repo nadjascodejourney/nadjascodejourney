@@ -1,31 +1,40 @@
-Hi 👋 My name is Nadja
+👋 Hi, my name is Nadja Probst
 ======================
-
-Web Developer and Designer
+About me
 --------------------------
+With a background in museum education and fine arts, I bring a unique combination of creativity, visual and conceptual thinking, cultural knowledge and educational prowess to the world of programming. I´ve discovered a passion for designing and developing web software solutions that not only look visually appealing but also enable a good user experience and targeted content delivery. 
 
-* 🌍  based in Regensburg
-* 🧠  current Interests: React, Three.js and Figma
-* 🤝  open to collaborating on artistic, playful and creative web projects
-* ⚡   also interested in art, illustration and typography
-* 😻  love cats and birds of prey 
+Technical Skills 👩‍🔧
+--------------------------
+* Key Languages: Javascript, HTML, CSS
+* Frameworks & Libraries: React, Node.js, Three.js
+* Preprocessors: SASS
+* Design & Prototyping: Figma
+* Databases: MongoDB
+* Deployment: Vercel, DigitalOcean, Netlify, Render, Nginx
+* Versioncontrol: GitHub
+* Domainmanagement: Namecheap
 
-### Skills
+Key Projects 🌟
+--------------------------
+* [Birds of Prey](https://github.com/nadjascodejourney/birdsOfPrey-Project)
+ Birds of Prey - A personal webproject about birds of prey 
+* [Quizzell](https://github.com/nadjascodejourney/quizproject) - A team project to create a quiz app prototype
 
+Professional Goals 🚀
+-------------------------- 
+* Career Development: Pursuing a career in web development where I can combine my previous experience with my technical skills in an interdisciplinary way to develop impactful web solutions.
+* Continuous Learning: Committed to ongoing professional development by advancing my coding skills and keeping up-to-date with tech trends as well as deepen fundamentals.
+* Innovative and committed teamwork: Sharing and expanding my skills and knowledge with those of others in order to tackle complex challenges.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+More worth knowing about me 💡
+--------------------------
+* 🧠  current Interests: React19, Three.js and building my own API for my current webproject about Birds of Prey
+* 🤝  open for collaborations on creative, artistic web projects, i.e. webgames or artprojects
+* 😻  interested in art, illustration and typography       & I love cats and birds of prey
+  
+Connect with me 📫
+--------------------------
+* [LinkedIn](https://www.linkedin.com/in/nadja-probst/)
+* Email: nadja.probst25@gmail.com
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/nadjascodejourney" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nadjaschwarzenegger" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nadja-probst-907ba82a9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nadjascodejourney"><img src="https://github-readme-stats.vercel.app/api?username=nadjascodejourney&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nadjascodejourney's GitHub stats" /></a>
-
-<a href="https://github.com/nadjascodejourney" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjascodejourney&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
