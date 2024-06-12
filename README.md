@@ -2,7 +2,7 @@
 ======================
 About me
 --------------------------
-With a background in museum education and fine arts, I bring a unique combination of creativity, visual and conceptual thinking, cultural knowledge and educational prowess to the world of programming. I´ve discovered a passion for designing and developing web software solutions that not only look visually appealing but also enable a good user experience and targeted content delivery. 
+With a background in museum education and fine arts, I bring a unique combination of creativity, visual and conceptual thinking, cultural knowledge and educational prowess to the world of programming. My goal is to design and develope web software solutions that not only look visually appealing but also enable a good user experience and targeted content delivery. 
 
 Technical Skills 👩‍🔧
 --------------------------
@@ -24,7 +24,7 @@ Professional Goals 🚀
 -------------------------- 
 * Career Development: Pursuing a career in web development where I can combine my previous experience with my technical skills in an interdisciplinary way to develop impactful web solutions.
 * Continuous Learning: Committed to ongoing professional development by advancing my coding skills and keeping up-to-date with tech trends as well as deepen fundamentals.
-* Innovative and committed teamwork: Sharing and expanding my skills and knowledge with those of others in order to tackle complex challenges.
+* Innovative and committed teamwork: Sharing and expanding my skills and knowledge with those of others in order to tackle complex challenges together.
 
 More worth knowing about me 💡
 --------------------------
