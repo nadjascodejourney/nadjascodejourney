@@ -28,7 +28,7 @@ Professional Goals 🚀
 
 More worth knowing about me 💡
 --------------------------
-* 🧠  current Interests: React19, Three.js, generative AI and building my own API for my current webproject about Birds of Prey
+* 🧠  current Interests: React19, Three.js and R3F, generative AI and building an API for my current webproject about Birds of Prey
 * 🤝  open for collaborations on creative, artistic web projects, i.e. webgames or artprojects
 * 😻  interested in art, illustration and typography       & I love cats and birds of prey
   
