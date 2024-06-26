@@ -7,9 +7,10 @@ With a background in museum education and fine arts, I bring a unique combinatio
 Technical Skills 👩‍🔧
 --------------------------
 * Key Languages: Javascript, HTML, CSS
-* Frameworks & Libraries: React, Node.js, Three.js
+* Frontend Frameworks & Libraries: React, Three.js, R3F, GSAP
 * Preprocessors: SASS
 * Design & Prototyping: Figma
+* Backend: Express.js, Mongoose
 * Databases: MongoDB
 * Deployment: Vercel, DigitalOcean, Netlify, Render, Nginx
 * Versioncontrol: GitHub
@@ -28,9 +29,9 @@ Professional Goals 🚀
 
 More worth knowing about me 💡
 --------------------------
-* 🧠  current Interests: React19, Three.js and R3F, generative AI and building an API for my current webproject about Birds of Prey
-* 🤝  open for collaborations on creative, artistic web projects, i.e. webgames or artprojects
-* 😻  interested in art, illustration and typography       & I love cats and birds of prey
+* 🧠  current Interests: React19, Three.js and R3F, GSAP, generative AI and building an API for my webproject about Birds of Prey
+* 🤝  From Oktober 2024, I am open for collaborations on creative, artistic web projects, i.e. webgames or artprojects
+* 😻  interested in art, illustration and typography & I love cats and birds of prey
   
 Connect with me 📫
 --------------------------
