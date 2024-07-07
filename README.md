@@ -8,6 +8,7 @@ Technical Skills 👩‍🔧
 --------------------------
 * Key Languages: Javascript, HTML, CSS
 * Frontend Frameworks & Libraries: React, Three.js, R3F, GSAP
+* State Management: Zustand
 * Preprocessors: SASS
 * Design & Prototyping: Figma
 * Backend: Express.js, Mongoose
