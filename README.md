@@ -40,5 +40,4 @@ Connect with me 📫
 --------------------------
 * [LinkedIn](https://www.linkedin.com/in/nadja-probst/)
 * [Codepen](https://codepen.io/Nadja-Probst)
-* Email: nadja.probst25@gmail.com
 
