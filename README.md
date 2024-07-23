@@ -11,11 +11,11 @@ Technical Skills 👩‍🔧
 * State Management: Zustand
 * Preprocessors: SASS
 * Design & Prototyping: Figma
-* Backend: Express.js, Mongoose, Zod
+* Backend: Node.js, Express.js, Mongoose, Zod
 * Database: MongoDB
 * Testing: Jest
 * Deployment: Vercel, DigitalOcean, Netlify, Render, Nginx
-* Versioncontrol: GitHub
+* Versioncontrol: git, GitHub
 * Domainmanagement: Namecheap
 
 Key Projects 🌟
