@@ -16,7 +16,7 @@ I have experience in coding with...  👩‍🔧
 * Design & Prototyping: Figma
 * Backend: Node.js, Express.js, Mongoose, Zod
 * Database: MongoDB
-* Testing: Jest
+* Testing: Jest, Vitest
 * Deployment: Vercel, DigitalOcean, Netlify, Render, Nginx
 * Versioncontrol: git, GitHub
 * Domainmanagement: Namecheap
