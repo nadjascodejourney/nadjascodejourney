@@ -7,7 +7,7 @@ My goal is to design and develope web solutions that not only look visually appe
 
 I have experience in coding with...  👩‍🔧
 --------------------------
-* Key Languages: Javascript, HTML, CSS
+* Key Languages: Javascript, Typescript, HTML, CSS
 * Frontend Frameworks & Libraries: React, Three.js, R3F, GSAP
 * CSS Frameworks: Tailwind CSS, Bootstrap
 * CSS Preprocessors: SASS
