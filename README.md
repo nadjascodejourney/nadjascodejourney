@@ -36,7 +36,9 @@ Key Projects 🌟
 Professional Goals 🚀
 -------------------------- 
 * Career Development: Combining my previous experience with my technical skills in an interdisciplinary way to design and develop impactful web solutions.
-* Appreciative and committed teamwork: Sharing and expanding skills and knowledge with others in order to learn and to tackle complex challenges together.
+* Appreciative and committed teamwork: Sharing and expanding skills and knowledge with others in order to learn and to tackle complex challenges together.This is why I´m participating at Hacktoberfest 2024, an open source contribution event, where I already collected some badges for my Contribution:
+
+[![An image of @nadjascodejourney's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nadjascodejourney)](https://holopin.io/@nadjascodejourney)
 
 More worth knowing about me 💡
 --------------------------
@@ -48,4 +50,7 @@ Connect with me 📫
 --------------------------
 * [LinkedIn](https://www.linkedin.com/in/nadja-probst/)
 * [Codepen](https://codepen.io/Nadja-Probst)
+
+
+
 
