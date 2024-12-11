@@ -1,4 +1,4 @@
-👋 Hi, my name is Nadja Probst
+👋 Hi, my name is Nadja
 ======================
 About me
 --------------------------
